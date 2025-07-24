@@ -5,4 +5,4 @@
 
 *create remote repo and push changes from local to remote
 
-*create a file on GitHub and pull these changes to local	
+*create a file on GitHub and pull these changes to local.....	
