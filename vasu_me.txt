@@ -1,0 +1,8 @@
+*Create private repo and clone it using PAT
+
+
+*create a new local repo add a text file
+
+*create remote repo and push changes from local to remote
+
+*create a file on GitHub and pull these changes to local	
